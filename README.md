@@ -41,10 +41,10 @@ A Node.js-based application designed to simplify and automate school administrat
 
 - **Testing** : Jest / Mocha (optional)
 
-[![Node,js](https://img.shields.io/badge/Node,je-18.x-green )
+![Node,js](https://img.shields.io/badge/Node,je-18.x-green )
 ![EXpree.js](https://img.shields.io/badge/Expree,js-Framework-blue )
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green )
-![License](https://img.shields.io/badge/license-MIT-blue )]
+![License](https://img.shields.io/badge/license-MIT-blue )
 ---
 # 🚀 Installation
 Clone the project and install dependencies:
